@@ -1,3 +1,4 @@
-## Hi there 👋
+#  Welcome to my main repository 👋 
 
-### This is mi first try in Github
+### A pathfinder since the beginnig
+
