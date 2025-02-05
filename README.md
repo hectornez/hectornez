@@ -1,4 +1,4 @@
 #  Welcome to my main repository 👋 
 
-### A pathfinder since the beginnig
+### Pathfinder from the beginnig
 
