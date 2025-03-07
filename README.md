@@ -1,4 +1,4 @@
-#  Welcome to my main repository 👋 
+#  Welcome to my main repository 🛰️
 
-### Pathfinder from the beginnig
+### Born to be a pathfinder
 
